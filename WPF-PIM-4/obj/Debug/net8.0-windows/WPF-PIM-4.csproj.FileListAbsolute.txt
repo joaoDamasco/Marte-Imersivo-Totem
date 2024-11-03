@@ -1,0 +1,114 @@
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.exe
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.deps.json
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.runtimeconfig.json
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\LoginVisualizar.g.cs
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.cache
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.lref
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\LoginVisualizar.baml
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.g.resources
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfoInputs.cache
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfo.cs
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.CoreCompileInputs.cache
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\refint\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.genruntimeconfig.cache
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\obj\Debug\net8.0-windows\ref\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4\WPF-PIM-4\bin\Debug\net8.0-windows\Imagens\back-image.jpg
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.AssemblyReference.cache
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Estilos\EstilosBotao.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Estilos\UICores.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AtulizarVisualizacao.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\LoginVisualizar.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarHistoria.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarMapa.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.cache
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.lref
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.exe
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\Imagens\back-image.jpg
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.deps.json
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.runtimeconfig.json
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\App.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AtulizarVisualizacao.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\LoginVisualizar.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarHistoria.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarMapa.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.g.resources
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfoInputs.cache
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfo.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.CoreCompileInputs.cache
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.Up2Date
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\refint\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.genruntimeconfig.cache
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\ref\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\QuestionarioAvaliacao.g.cs
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\QuestionarioAvaliacao.baml
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - save\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.exe
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.deps.json
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.runtimeconfig.json
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.AssemblyReference.cache
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Estilos\EstilosBotao.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Estilos\UICores.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AtulizarVisualizacao.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\QuestionarioAvaliacao.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarEmail.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarHistoria.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarMapa.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\App.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.cache
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4_MarkupCompile.lref
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\App.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AtulizarVisualizacao.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\QuestionarioAvaliacao.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarEmail.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarHistoria.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarMapa.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.g.resources
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfoInputs.cache
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.AssemblyInfo.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.CoreCompileInputs.cache
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.csproj.Up2Date
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\refint\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.pdb
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\WPF-PIM-4.genruntimeconfig.cache
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\ref\WPF-PIM-4.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarAdmin.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\VisualizarAdmin.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AdminControle.g.cs
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\obj\Debug\net8.0-windows\Visualizar\AdminControle.baml
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\temp\projects\WPF-PIM-4 - v1\WPF-PIM-4\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll

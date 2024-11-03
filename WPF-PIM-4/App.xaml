@@ -1,0 +1,19 @@
+﻿<Application x:Class="WPF_PIM_4.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_PIM_4"
+             StartupUri="MainWindow.xaml">
+    <!--  StartupUri="Visualizar/LoginVisualizar.xaml" -->
+        
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Estilos/UICores.xaml"/>
+                <ResourceDictionary Source="/Estilos/EstilosBotao.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+      
+
+    </Application.Resources>
+</Application>
