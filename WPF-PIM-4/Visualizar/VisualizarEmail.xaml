@@ -28,7 +28,7 @@
                     <Button Content="8" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button Content="9" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button Content="0" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
-                    <Button Content="Backspace" Width="80" Height="40" Click="Backspace_Click" Margin="30,0,0,0"/>
+                    <Button Content="Backspace" Width="80" Height="40" Click="Backspace_Click" Margin="70,0,0,0"/>
                 </WrapPanel>
 
                 <WrapPanel Margin="0,5,0,0">
@@ -42,7 +42,7 @@
                     <Button x:Name="LetraH" Content="H" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button x:Name="LetraI" Content="I" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button x:Name="LetraJ" Content="J" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
-                    <Button x:Name="ClearButton" Content="Clear" Width="80" Height="40" Click="Clear_Click" Margin="30,0,0,0"/>
+                    <Button x:Name="ClearButton" Content="Clear" Width="80" Height="40" Click="Clear_Click" Margin="70,0,0,0"/>
                 </WrapPanel>
 
                 <WrapPanel Margin="0,5,0,0">
@@ -71,7 +71,7 @@
                     <Button x:Name="LetraPonto" Content="." Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button x:Name="LetraArroba" Content="@" Width="40" Height="40" Click="VirtualKeyboard_Click"/>
                     <Button x:Name="Space" Content="_________" Width="80" Height="40" Click="Space_Click" Margin="10,0,0,0"/>
-                    <Button x:Name="Salvar" Content="Salvar" Width="80" Height="40" Margin="50,0,0,0" Click="SaveButton_Click"/>
+                    <Button x:Name="Salvar" Content="Salvar" Width="80" Height="40" Click="SaveButton_Click"/>
                 </WrapPanel>
             </WrapPanel>
         </StackPanel>

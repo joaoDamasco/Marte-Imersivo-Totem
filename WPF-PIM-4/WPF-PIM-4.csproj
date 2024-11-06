@@ -10,10 +10,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Imagens\asteroideMarte.jpeg" />
     <None Remove="Imagens\back-image.jpg" />
     <None Remove="Imagens\HistoriaTemas.png" />
     <None Remove="Imagens\InicialTotem.png" />
+    <None Remove="Imagens\luaMarte.jpeg" />
     <None Remove="Imagens\MapaMuseu.jpeg" />
+    <None Remove="Imagens\pedrasMarte.jpeg" />
+    <None Remove="Imagens\rbMarte.jpeg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,12 +27,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Imagens\asteroideMarte.jpeg" />
     <Resource Include="Imagens\back-image.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Imagens\HistoriaTemas.png" />
     <Resource Include="Imagens\InicialTotem.png" />
+    <Resource Include="Imagens\luaMarte.jpeg" />
     <Resource Include="Imagens\MapaMuseu.jpeg" />
+    <Resource Include="Imagens\pedrasMarte.jpeg" />
+    <Resource Include="Imagens\rbMarte.jpeg" />
   </ItemGroup>
 
 </Project>

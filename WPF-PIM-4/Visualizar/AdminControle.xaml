@@ -9,44 +9,73 @@
     <Grid Background="White">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto" />
-            <!-- Para os botões e campo de texto -->
+            <!-- Linha para os botões e o TextBox -->
             <RowDefinition Height="*" />
-            <!-- Para o ScrollViewer -->
+            <!-- Linha para os DataGrids -->
         </Grid.RowDefinitions>
 
-        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="0">
-            <Button Content="Buscar" Click="Buscar_Click" Margin="5" />
-            <Button Content="Atualizar Email" Click="AtualizarEmail_Click" Margin="5" />
-            <Button Content="Deletar Email" Click="DeletarEmail_Click" Margin="5" />
-            <Button Content="Deletar Sugestão" Click="DeletarSugestao_Click" Margin="5" />
-            <Button Content="Deletar Resposta" Click="DeletarResposta_Click" Margin="5" />
-            <TextBox x:Name="txtEmail" Margin="5" Width="300" IsReadOnly="False" />
+        <!-- Controles (botões e TextBox) na primeira linha -->
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="0" Height="50" Width="600">
+            <Button Content=" Buscar " Click="Buscar_Click" Margin="5" Background="YellowGreen"/>
+            <Button Content=" Deletar Email " Click="DeletarEmail_Click" Margin="5" Background="Red"/>
+            <Button Content=" Deletar Sugestão " Click="DeletarSugestao_Click" Margin="5" Background="Red"/>
+            <Button Content=" Deletar Resposta " Click="DeletarResposta_Click" Margin="5" Background="Red"/>
         </StackPanel>
 
-        <ScrollViewer Grid.Row="1">
-            <StackPanel>
-                <TextBlock Text="Emails" FontWeight="Bold" Margin="10" />
-                <DataGrid x:Name="dataGridEmails" AutoGenerateColumns="False" Margin="10" SelectionChanged="dataGridEmails_SelectionChanged">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Email" Binding="{Binding Email}" />
-                    </DataGrid.Columns>
-                </DataGrid>
+        <!-- Linha para os DataGrids na segunda linha -->
+        <Grid Grid.Row="1" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
 
-                <TextBlock Text="Sugestões" FontWeight="Bold" Margin="10" />
-                <DataGrid x:Name="dataGridSugestoes" AutoGenerateColumns="False" Margin="10" SelectionChanged="dataGridSugestoes_SelectionChanged">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Sugestão" Binding="{Binding Sugestao}" />
-                    </DataGrid.Columns>
-                </DataGrid>
+            <!-- DataGrid para exibir os Emails -->
+            <DataGrid x:Name="dataGridEmails" AutoGenerateColumns="False" Margin="5" HorizontalAlignment="Stretch" ColumnWidth="*" MaxWidth="700" CanUserAddRows="False" Grid.Column="0">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Email" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Email}" TextAlignment="Center" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
 
-                <TextBlock Text="Respostas" FontWeight="Bold" Margin="10" />
-                <DataGrid x:Name="dataGridRespostas" AutoGenerateColumns="False" Margin="10" SelectionChanged="dataGridRespostas_SelectionChanged">
-                    <DataGrid.Columns>
-                        <DataGridTextColumn Header="Pergunta" Binding="{Binding Pergunta}" />
-                        <DataGridTextColumn Header="Resposta" Binding="{Binding Resposta}" />
-                    </DataGrid.Columns>
-                </DataGrid>
-            </StackPanel>
-        </ScrollViewer>
+            <!-- DataGrid para exibir as Sugestões -->
+            <DataGrid x:Name="dataGridSugestoes" AutoGenerateColumns="False" Margin="5" HorizontalAlignment="Stretch" ColumnWidth="*" MaxWidth="700" CanUserAddRows="False" Grid.Column="1">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Sugestão" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Sugestao}" TextAlignment="Center" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+            <!-- DataGrid para exibir as Respostas -->
+            <DataGrid x:Name="dataGridRespostas" AutoGenerateColumns="False" Margin="5" HorizontalAlignment="Stretch" ColumnWidth="*" MaxWidth="700" CanUserAddRows="False" Grid.Column="2">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Header="Pergunta" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Pergunta}" TextAlignment="Center" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+
+                    <DataGridTemplateColumn Header="Resposta" Width="*" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Resposta}" TextAlignment="Center" />
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
     </Grid>
 </UserControl>

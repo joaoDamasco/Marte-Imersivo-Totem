@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txJw8dpUkrQ=",
+  "dgSpecHash": "4B2fYkEuNiw=",
   "success": true,
-  "projectFilePath": "C:\\temp\\projects\\WPF-PIM-4 - v1\\WPF-PIM-4\\WPF-PIM-4.csproj",
+  "projectFilePath": "C:\\Users\\joao_\\OneDrive\\Área de Trabalho\\Git GitHub\\Projeto\\WPF-PIM-4 - v2.0\\WPF-PIM-4\\WPF-PIM-4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joao_\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
     "C:\\Users\\joao_\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",

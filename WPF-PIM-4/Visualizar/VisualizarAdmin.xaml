@@ -153,7 +153,7 @@
                             <!-- Backspace e Limpar -->
                             <Button Content="Backspace" Click="Backspace_Click" />
                             <Button Content="Limpar" Click="Limpar_Click" />
-                            <Button x:Name="EntrarLogin" Content="Entrar" Click="EntrarLogin_Click" Margin="5,0,0,0"/>
+                            <Button x:Name="EntrarLogin" Content="Entrar" Click="EntrarLogin_Click"/>
                             
                         </UniformGrid>
                     </Grid>

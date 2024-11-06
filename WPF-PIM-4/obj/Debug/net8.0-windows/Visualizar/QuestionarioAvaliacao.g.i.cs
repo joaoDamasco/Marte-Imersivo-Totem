@@ -87,7 +87,7 @@ namespace WPF_PIM_4.Visualizar {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF-PIM-4;V1.0.0.0;component/visualizar/questionarioavaliacao.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF-PIM-4;component/visualizar/questionarioavaliacao.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Visualizar\QuestionarioAvaliacao.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

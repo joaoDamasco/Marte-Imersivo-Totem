@@ -6,7 +6,8 @@
     <Color x:Key="primaryBackColor2">#1C0E49</Color>
     <Color x:Key="secondaryBackColor1">#24105F</Color>
     <Color x:Key="secondaryBackColor2">#210F55</Color>
-
+    <Color x:Key="BgColo1">#FFFFFF</Color>
+    
     <!--Cores das bordas da janela-->
     <Color x:Key="winBorderColor1">#6D2FFF</Color>
     <Color x:Key="winBorderColor2">#FB539B</Color>

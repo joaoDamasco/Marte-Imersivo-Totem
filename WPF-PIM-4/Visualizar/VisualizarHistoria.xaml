@@ -22,24 +22,37 @@
                    FontWeight="Bold" Foreground="Black" TextAlignment="Center"/>
         </Border>
 
-        <StackPanel Margin="135,140,110,70">
-            <RichTextBox x:Name="rtbHistoria" Background="Transparent" IsReadOnly="True" BorderBrush="Transparent" OverridesDefaultStyle="True" Focusable="False" BorderThickness="0">
-                <FlowDocument>
-                    <FlowDocument.Resources>
-                        <Style TargetType="Paragraph">
-                            <Setter Property="FontFamily" Value="Segoe UI"/>
-                            <Setter Property="FontSize" Value="30"/>
-                            <Setter Property="Foreground" Value="Black"/>
-                            <Setter Property="TextAlignment" Value="Center"/>
-                        </Style>
-                    </FlowDocument.Resources>
-                    <Paragraph>
-                        <Run Text=""/>
-                    </Paragraph>
-                </FlowDocument>
-            </RichTextBox>
-        </StackPanel>
+        <!-- Usando Grid para definir a divisão -->
+        <Grid Margin="215,140,110,70">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <!-- 60% da largura -->
+                <ColumnDefinition Width="*" />
+                <!-- 40% da largura -->
+            </Grid.ColumnDefinitions>
 
+            <!-- Área de Texto (RichTextBox) na primeira coluna -->
+            <StackPanel Grid.Column="0" VerticalAlignment="Top">
+                <RichTextBox x:Name="rtbHistoria" Background="Transparent" IsReadOnly="True" BorderBrush="Transparent" OverridesDefaultStyle="True" Focusable="False" BorderThickness="0">
+                    <FlowDocument>
+                        <FlowDocument.Resources>
+                            <Style TargetType="Paragraph">
+                                <Setter Property="FontFamily" Value="Segoe UI"/>
+                                <Setter Property="FontSize" Value="25"/>
+                                <Setter Property="Foreground" Value="Black"/>
+                                <Setter Property="TextAlignment" Value="Center"/>
+                            </Style>
+                        </FlowDocument.Resources>
+                        <Paragraph>
+                            <Run Text=""/>
+                        </Paragraph>
+                    </FlowDocument>
+                </RichTextBox>
+            </StackPanel>
+
+            <!-- Imagem ao lado do texto, na segunda coluna -->
+            <Image x:Name="imgHistoria" Grid.Column="1" Width="300" Height="300" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,0,0,0"/>
+        </Grid>
         <!-- Botões de navegação -->
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,20,0,95">
             <!-- Botão Anterior -->
@@ -85,5 +98,4 @@
             </Button>
         </StackPanel>
     </Grid>
-
 </UserControl>
